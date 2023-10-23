@@ -24,7 +24,6 @@ process.stdin.on("data", data =>{
         process.exit()
     }
     
-    
 }) 
 
 process.on("exit", () =>{
